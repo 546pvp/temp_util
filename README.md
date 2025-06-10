@@ -1,5 +1,5 @@
 # temp_util
-### Easily swap between temperature units (Fahreheit / Celsius)
+### Easily swap between temperature units (Fahrenheit / Celsius)
 
 
 Usage:
