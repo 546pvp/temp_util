@@ -7,6 +7,7 @@ Usage:
 ```v
 import temp_util	//Import the package
 
+fn main(){
 
 // To convert from fahrenheit to celsius, we can use this function:
 // temp_util.to_celsius(fahrenheit f64)
@@ -17,6 +18,8 @@ temp_util.to_celsius(81)  // --> returns 27.222 as f64
 // temp_util.to_fahrenheit(celsius f64)
 // Example:
 temp_util.to_fahrenheit(23)  // --> returns 73.4 as f64
+
+}
 ```
 
-All outputs of the functons above are rounded to 3 digits.
+All outputs of the functions above, are rounded to 3 digits.
